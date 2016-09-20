@@ -1,2 +1,2 @@
-# gomoku-board
-A simple Gomoku board
+# caro-board
+A simple caro board

@@ -1,0 +1,20 @@
+{
+  "name": "gomoku-board",
+  "version": "1.0.0",
+  "description": "A simple Gomuku board",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imcvampire/gomoku-board.git"
+  },
+  "keywords": [
+    "gomoku",
+    "board"
+  ],
+  "author": "Nguyen Quoc Anh",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/imcvampire/gomoku-board/issues"
+  },
+  "homepage": "https://github.com/imcvampire/gomoku-board#readme",
+}
